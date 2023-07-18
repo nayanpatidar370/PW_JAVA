@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "A1Que4",
+            "request": "launch",
+            "mainClass": "HashMap_Stack_Queue.Assignment.A1Que4",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "A1Que3",
+            "request": "launch",
+            "mainClass": "HashMap_Stack_Queue.Assignment.A1Que3",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "A1Que2",
+            "request": "launch",
+            "mainClass": "HashMap_Stack_Queue.A1Que2",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "A1Que1",
+            "request": "launch",
+            "mainClass": "HashMap_Stack_Queue.A1Que1",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "slidingWindow",
+            "request": "launch",
+            "mainClass": "slidingWindow",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "StackUsingQueue",
+            "request": "launch",
+            "mainClass": "StackUsingQueue",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "Histogram",
+            "request": "launch",
+            "mainClass": "Histogram",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "QueueUsingStack",
+            "request": "launch",
+            "mainClass": "QueueUsingStack",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "QueueImplementation",
+            "request": "launch",
+            "mainClass": "QueueImplementation",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "ValidParenthesis",
+            "request": "launch",
+            "mainClass": "ValidParenthesis",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "firstNonRepating",
+            "request": "launch",
+            "mainClass": "HashMap_Stack_Queue.firstNonRepating",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "Q2",
+            "request": "launch",
+            "mainClass": "Assign_Linked_List.Q2",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "Q1",
+            "request": "launch",
+            "mainClass": "Assign_Linked_List.Q1",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "trialLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.trialLinkedList",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "Insertion_Begin",
+            "request": "launch",
+            "mainClass": "LinkedList.Insertion_Begin",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "Insertion_End",
+            "request": "launch",
+            "mainClass": "LinkedList.Insertion_End",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "PermuteNum",
+            "request": "launch",
+            "mainClass": "PermuteNum",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "even",
+            "request": "launch",
+            "mainClass": "even",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A1",
+            "request": "launch",
+            "mainClass": "A1",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "A2",
+            "request": "launch",
+            "mainClass": "A2",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "A4",
+            "request": "launch",
+            "mainClass": "A4",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "C1",
+            "request": "launch",
+            "mainClass": "C1",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "RatInAMaze",
+            "request": "launch",
+            "mainClass": "RatInAMaze",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
+            "name": "printAllSequences",
+            "request": "launch",
+            "mainClass": "printAllSequences",
+            "projectName": "PWSkills_cdbe5e8c"
+        }
+    ]
+}
