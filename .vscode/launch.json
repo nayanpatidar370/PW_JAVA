@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A1Que5",
+            "request": "launch",
+            "mainClass": "A1Que5",
+            "projectName": "PWSkills_cdbe5e8c"
+        },
+        {
+            "type": "java",
             "name": "A1Que4",
             "request": "launch",
             "mainClass": "HashMap_Stack_Queue.Assignment.A1Que4",

@@ -26,6 +26,7 @@ public class A1Que3 {
             {
                  answer=1;
                 System.out.println("Yes");
+               
                 break;
             }
                map.put(a[i], 1);
